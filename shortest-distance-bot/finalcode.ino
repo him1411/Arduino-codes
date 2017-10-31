@@ -1,6 +1,6 @@
 #include<Servo.h>
 
-int lm1=8;
+int lm1=8;   //lite
 int lm2=9;
 int rm1=11;
 int rm2=12;
