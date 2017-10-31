@@ -1,2 +1,3 @@
 # arduino-shortest-distance-bot
-Based on djikstras algorithm of travelling salesman problem.
+Based on djikstras algorithm of travelling salesman problem. 
+
